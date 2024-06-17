@@ -1,0 +1,274 @@
+1: UEFA Champions League
+2: European Cup Winners' Cup
+3: European Championship
+4: European/South American Cup (Toyota Cup)
+5: European Futsal Championship
+9: UEFA Super Cup
+11: European Under-16 Championship
+12: European Under-18 Championship
+13: European Under-21 Championship
+14: UEFA Europa League
+16: UEFA Intertoto Cup
+17: FIFA World Cup
+18: European Women's Championship
+19: Friendly Matches
+20: Meridian-Cup
+21: European Women's Under-18 Championship
+22: UEFA Regions' Cup
+23: European Under-17 Championship
+24: European Under-19 Championship
+25: European Women's Under-19 Championship
+26: Meridian Cup Gala Match (club)
+27: UEFA Futsal Champions League
+28: UEFA Women's Champions League
+29: International Youth Tournament
+30: Challenge Cup for National U-23 Representative Teams
+31: Competition for National Team U-23 Representative Team
+32: Confederations Cup
+33: Meridian Cup Gala Match (assoc.)
+34: Friendly U-21
+35: Preparatory Friendly Tournament U19
+36: Preparatory Friendly Tournament U17
+37: Preparatory Friendly Tournament  WU19
+38: FIFA Futsal World Cup
+39: FIFA Women's World Cup
+40: A Internationals women
+41: Fairs Cup
+42: Super Competition 72
+101: European Women's Under-17 Championship
+103: UEFA-CAF Meridian Cup
+104: UEFA Gala Matches
+105: FIFA Under-20 Championship
+106: Friendly Wochamp Tournaments
+107: Women's Olympic Football Tournament
+108: European Under-21 Futsal Tournament
+109: FIFA World Cup Under-17
+1026: Bundesliga
+1027: Premier League
+1028: League
+1029: Premier League
+1030: 1.NHL
+1031: Ligaen
+1032: Eredivisie
+1033: Premier Division
+1034: Meistriliiga
+1035: Premier League
+1036: 1 Deild
+1037: Veikkausliga
+1038: Ligue 1
+1039: Bundesliga
+1040: Premier League
+1041: First Division
+1042: Serie A
+1043: Premier Division
+1044: Prva Liga
+1045: Tippeligaen
+1046: Ekstraklasa
+1048: SuperLiga
+1049: Divizia A
+1050: Premier-Liga
+1051: Liga
+1052: Premier League
+1053: Primera Divisi'n
+1054: Allsvenskan
+1055: Super League
+1056: Super League
+1058: Kategoria Pare
+1059: National Championship
+1061: Liga
+1062: Ethniki Kategoria
+1063: Liga
+1064: Virsliga
+1065: Federacijos Lyga
+1068: Liga
+1069: Premier League
+1071: Primera Divisio
+1072: Division Nationale
+1073: Premier League
+1075: Campionato Dilettanti
+1076: First Division
+1077: First League
+1078: Vysshaya Liga
+1079: Premier League
+1080: Premier Liga
+1081: Umaglesi Liga
+1082: National Championship
+1084: Premier League
+1085: Prva crnogorska
+1086: Liechtenstein Championships
+1087: Gibraltar League
+1088: Kosovan League
+2002: Under-15 Youth Olympics Qualifiers - Europe (U15)
+2003: Under-15 Youth Olympics Qualifiers – Europe (WU15)
+2004: UEFA Champions League Under-18 Challenge
+2006: Cyprus Women's Cup
+2007: Dev WU-17
+2008: UEFA Youth League
+2009: Dev WU-18
+2010: Preparatory Friendly Tournament WU17
+2012: Dev U-16
+2013: Dev WU-16
+2014: UEFA Nations League
+2015: Youth Olympic Boys Futsal Tournament
+2016: Youth Olympic Girls Futsal Tournament
+2017: UEFA European Women’s Futsal Championship
+2018: UEFA European Under-19 Futsal Championship
+2019: UEFA Europa Conference League
+2020: Finalissima
+2021: Intercontinental U20
+2022: Futsal Finalissima
+2024: Women's Finalissima
+2025: UEFA CONMEBOL Club Challenge
+2026: 1. Murexin Bundesliga
+2027: Premier League (Perth region)
+2028: Division 1
+2029: Premiere Futsal League
+2030: Premiere League
+2031: DBU Futsal Championship
+2032: Topdivisie
+2033: FAI National Futsal League
+2034: Futsal Meistriliiga
+2035: English Regional League
+2037: Futsal-Liiga
+2038: French Ligue 1
+2040: Premiere League
+2041: Israeli Futsal League
+2042: Serie A1
+2043: Welsh FAW Futsal Cup
+2044: Premiere League
+2045: NFF Futsal Eliteserien
+2046: Premiere League
+2048: Premiere League
+2049: Liga 1
+2050: Super League
+2051: Premiere League
+2052: National Futsal League
+2053: Division de Honor
+2054: SM i Futsal
+2055: Swiss Challenge League
+2056: Turkish Futsal Premiere League
+2058: Premiere League Group A & B
+2059: Premiere League
+2061: Premiere League
+2062: Premiere League
+2063: Premiere League
+2064: Futsal Championship (Riga Region)
+2065: Premiere League
+2068: Premiere League
+2069: Premiere League
+2071: Premiere League
+2072: Luxembourger First Division
+2073: First Division
+2075: Campionato Futsal
+2076: Futsal Premiere League
+2077: Premiere League
+2078: Premiere League
+2079: Premiere League
+2080: Federation 1. League North & South
+2081: Super League
+2082: AFSM Divizia Nationala
+2084: Premiere League
+2085: Premiere League
+2087: Futsal League
+2088: Kosovan Futsal
+3026: Frauen Bundesliga
+3027: Women's Premier Division
+3028: Dames 1e Nationale
+3030: First League
+3031: Elitedivisionen
+3032: Vrouwen Eredivisie
+3033: Irish Women's National League
+3034: Naiste Meistriliiga
+3035: FA WSL
+3036: 1 Deild Kvinnur
+3037: Naistenliiga
+3038: Feminine Division 1
+3039: Frauen Bundesliga
+3040: Landsbankadeild Kvenna
+3041: Ligat Al Women
+3042: Femminile Serie A
+3043: Premier Womens Football League
+3045: Kvinne Toppserien
+3046: Kobiety Ekstraliga
+3048: Feminino 1a Divisao
+3049: Romanian Campionatul National
+3050: Women's Premier League
+3051: 1 Liga Zeny
+3052: Women's Premier Division
+3053: Superliga
+3054: Damallsvenskan
+3055: Nationalliga A
+3056: Bayanlar Ligi
+3061: Zeny 1. Liga
+3062: Panelinio Protathlima
+3063: N'i NB 1
+3065: Women A Lyga
+3068: 1 Zenska Liga
+3069: Women's Ukraine
+3072: Dames Ligue 1
+3073: Women's First Division
+3077: Prva Zenska Liga
+3078: Premier League
+3085: 1 ZFL
+3088: Kosovan Women
+5026: Austrian OFB Stiegl Pokal
+5027: Scottish FA Cup
+5028: Belgian Cup
+5029: Bulgarian Cup
+5030: Croatian Cup
+5031: Danish Landspokal
+5032: Dutch KNVB Cup
+5033: Irish FAI Cup
+5034: Estonian Cup
+5035: English FA Cup
+5036: Faroe Islands Cup
+5037: Finnish Suomen Cup
+5038: Coupe de France
+5039: German DFB Pokal
+5040: Icelandic VISA-bikar
+5041: Israeli Cup
+5042: Coppa Italia
+5043: Welsh Cup
+5044: Macedonian Cup
+5045: Norwegian NM Cup
+5046: Polish Cup
+5048: Portuguese Cup
+5049: Romanian Cup
+5050: Russian Cup
+5051: Slovakian Cup
+5052: Northern Irish Cup
+5053: Spanish Copa Del Rey
+5054: Swedish Cup
+5055: Swisscom Cup
+5056: Turkish Kupasi
+5058: Albanian Cup
+5059: Azerbaijan Cup
+5061: Czech Cup
+5062: Greek SINCO Cup
+5063: Hungarian Cup
+5064: Latvian Cup
+5065: Lithuanian Cup
+5068: Slovenian Cup
+5069: Ukrainian Cup
+5071: Andorran Copa Constitucio
+5072: Luxembourg Cup
+5073: Maltese Cup
+5075: San Marino Coppa Titano
+5076: Cypriot Cup
+5077: Serbian Cup
+5078: Belarusian Cup
+5079: Armenian Cup
+5080: Bosnia & Herzegovinan Cup
+5081: Georgian Cup
+5082: Moldovan Cup
+5084: Kazakhstan Cup
+5085: Montenegro Cup
+5087: Gibraltar Rock Cup
+5088: Kosovan Cup
+5135: English Carling Cup
+5138: French Coupe de la Ligue
+6035: English Npower Championship
+6039: German DFB-Futsal-Cup
+6055: Futsal League
+7033: FAI Women's Senior Challenge Cup
+7035: The FA Womens Cup

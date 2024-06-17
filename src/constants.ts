@@ -1,0 +1,7 @@
+export const apiMatches = 'https://match.uefa.com/v5/matches'
+export const apiLivescore = 'https://match.uefa.com/v5/livescore'
+export const apiMatchStats = 'https://matchstats.uefa.com/v1/team-statistics'
+export const apiCompetitions = 'https://comp.uefa.com/v2/competitions'
+export const apiTeams = 'https://comp.uefa.com/v2/teams'
+export const apiPlayers = 'https://comp.uefa.com/v2/players'
+export const apiStandings = 'https://standings.uefa.com/v1/standings'

@@ -1,0 +1,45 @@
+{
+  "name": "uefa-api",
+  "version": "1.0.0",
+  "description": "Typescript bindings and utils for the UEFA APIs",
+  "license": "MIT",
+  "keywords": [
+    "uefa",
+    "sports",
+    "matches",
+    "football",
+    "futsal",
+    "api"
+  ],
+  "author": {
+    "name": "Erik Michelson",
+    "email": "opensource@erik.michelson.eu",
+    "url": "https://erik.michelson.eu"
+  },
+  "type": "module",
+  "source": "src/index.ts",
+  "exports": {
+    "require": "./dist/index.cjs",
+    "default": "./dist/index.modern.js"
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.module.js",
+  "unpkg": "./dist/index.umd.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "microbundle && cp src/*.d.ts dist/",
+    "dev": "microbundle watch",
+    "fix": "biome check --write src/",
+    "lint": "biome check src/",
+    "ci": "biome ci --reporter=github src/",
+    "prepublishOnly": "npm run lint && npm run build"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.1",
+    "microbundle": "^0.15.1"
+  },
+  "files": [
+    "LICENSE",
+    "dist"
+  ]
+}
