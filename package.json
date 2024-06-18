@@ -23,8 +23,13 @@
   "type": "module",
   "source": "src/index.ts",
   "exports": {
-    "require": "./dist/index.cjs",
-    "default": "./dist/index.modern.js"
+    ".": {
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.modern.js",
+      "types": "./dist/index.d.ts"
+    },
+    "./package.json": "./package.json",
+    "./dist/index.d.ts": "./dist/index.d.ts"
   },
   "main": "./dist/index.cjs",
   "module": "./dist/index.module.js",
