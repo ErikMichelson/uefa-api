@@ -16,6 +16,10 @@
     "email": "opensource@erik.michelson.eu",
     "url": "https://erik.michelson.eu"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikMichelson/uefa-api"
+  },
   "type": "module",
   "source": "src/index.ts",
   "exports": {
