@@ -8,6 +8,6 @@ import { performApiRequest } from '../utils'
  *
  * @returns A promise that resolves with the current livescore.
  */
-export const getLivescore = (): Promise<Livescore> => {
-  return performApiRequest<Livescore>(apiLivescore, {})
+export const getLivescore = (): Promise<Livescore[]> => {
+  return performApiRequest<Livescore[]>(apiLivescore, {})
 }

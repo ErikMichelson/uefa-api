@@ -27,7 +27,7 @@ const matches = await getMatches({
 ## Methods
 For the results of the methods, check the typings [here](https://github.com/ErikMichelson/uefa-api/blob/HEAD/src/api.d.ts).
 
-### `getLivescore(): Livescore`
+### `getLivescore(): Livescore[]`
 Returns the score of currently running matches as well as information about upcoming matches in the next hour as well as
 finished matches in the last hour.
 
