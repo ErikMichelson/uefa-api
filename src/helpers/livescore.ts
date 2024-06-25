@@ -6,8 +6,8 @@ import { performApiRequest } from '../utils'
  * Fetches the current livescore from the API.
  * This includes upcoming matches in the near time, live matches and recent matches from the last hours.
  *
- * @returns A promise that resolves with the current livescore.
+ * @returns A promise that resolves with an array of the current livescores.
  */
-export const getLivescore = (): Promise<Livescore> => {
-  return performApiRequest<Livescore>(apiLivescore, {})
+export const getLivescore = (): Promise<Livescore[]> => {
+  return performApiRequest<Livescore[]>(apiLivescore, {})
 }
